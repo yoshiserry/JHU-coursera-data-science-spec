@@ -14,9 +14,17 @@
 ..2. Installation and use of Homebrew/Cask (OSX package manager) to install R and R-studio.
 ..3. Familiarity with the Command Line; zsh (Shell alternative), oh-my-zsh (ZSH framework), iterm2 (terminal replacement for OSX)
 
-## Week 2
-* Course overview
-* An overview of data science in general and each of the nine modules in the course.
-* The data science workflow and data pipelines
-* Getting help; the skill, motivation and challenge of finding answers; everything is not always available at the start.
-* Using and installing R and R-studio.
+## Week 2 (1 Hour)
+* Challenges and Aim: Learn new data science skills; and test the online learning model.
+* Time to review week and document notes on 'Week 2' course materials - not including time spent learning R which is a new skill).
+* [An overview of the command line](https://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html "Introduction to Unix/Terminal")
+* [Git introduction](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html "Introduction to Git in Terminal")
+* [Github introduction](https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html "Introduction to collaboration on Github in Terminal")
+* [Markdown introduction](https://www.lynda.com/Web-Development-tutorials/Up-Running-Markdown/438888-2.html "Introduction to markdown")
+* [introduction to R](https://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html  "Basic Introduction to R")
+* Other R Courses [R Data Science](https://www.lynda.com/R-tutorials/R-Data-Science-Lunchbreak-Lessons/651209-2.html) [R Tidyverse](https://www.lynda.com/R-tutorials/Learning-R-Tidyverse/586672-2.html) [R Data Wrangling](https://www.lynda.com/R-tutorials/Data-Wrangling-R/594442-2.html)
+[R Statistics](https://www.lynda.com/R-tutorials/R-Statistics-Essential-Training/142447-2.html)
+* Prior Knowledge:
+⋅⋅1. Familiarity with Command Line, Git and Github, Markdown.
+* New Skills:
+⋅⋅1. No prior experience in R
