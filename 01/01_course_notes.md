@@ -44,9 +44,13 @@
   - [Alias for Bash Scripting](https://www.computerworld.com/article/2598087/linux/how-to-use-aliases-in-linux-shell-commands.html)
 
 * **Required Files:**
+  0. **ZSH Issues:** I ran into the [following issues]() when using ZSH to run some commands. [Here is the OSX setup script I use.](https://raw.githubusercontent.com/yoshiserry/MAX/master/appinstall.sh)
+
+The best way is source ~/.bash_profile at the end of your .zshrc file. Nothing bad will happen. Copying all the content of .bash_profile is not smart, because you have to maintain two file in synch in case you want remove zsh in the future.
+
   1. **[R_install.sh](https://github.com/yoshiserry/JHU-coursera-data-science-spec/blob/master/R_install.sh)** - To install R & R-Studio execute the following terminal command:
 ```
-sh -c "($ curl -fsSL https://github.com/yoshiserry/JHU-coursera-data-science-spec/blob/master/R_install.sh)";
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/yoshiserry/JHU-coursera-data-science-spec/master/01/R_install.sh)";
 ```
 ## Week 3 (3 Hours)
 * **Types of Data Analysis:**
