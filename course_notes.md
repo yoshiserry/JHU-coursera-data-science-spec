@@ -48,7 +48,7 @@
 ```
 sh -c "($ curl -fsSL https://github.com/yoshiserry/JHU-coursera-data-science-spec/blob/master/R_install.sh)";
 ```
-## Week 3 (1.5 Hours)
+## Week 3 (3 Hours)
 * **Types of Data Analysis:**
   - Descriptive - A description of what is happening in the data without trying to infer things for the next person or data point.
   - Exploratory - Find relationships and connections you didn't know about. Should not be used alone for generalising or Predicting. Correlation does not imply causation. You've discovered a relationship that is the critical relationship between two variables based on exploratory analysis alone.
