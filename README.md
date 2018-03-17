@@ -1,10 +1,13 @@
-#README.MD
+# JHU-coursera-data-science-spec
 
-## JHU-coursera-data-science-spec
-https://www.coursera.org/specializations/jhu-data-science
+[JHU Coursera Data Science Specialisation](https://www.coursera.org/specializations/jhu-data-science "Data Science Introduction")
 
 ## Files:
-* **README.MD** - Notes as each of the modules are completed.
+* **README.MD** - Summary page.
+* **course_notes.MD** - Notes as each of the modules are completed.
 
 ## To-Do:
- - 1. improve format of notes and final presentation of notes and learnings from the course.
+ - [ ] Format of notes and final presentation learnings from the course.
+
+## Completed:
+ - [x] Toolbox week 1.
