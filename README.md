@@ -5,9 +5,4 @@
 ## Files:
 * **README.MD** - Summary page.
 * **course_notes.MD** - Notes as each of the modules are completed.
-
-## To-Do:
- - [ ] Format of notes and final presentation learnings from the course.
-
-## Completed:
- - [x] Toolbox week 1.
+* **R_install.sh** - Installation script for R and R-studio on OSX.
