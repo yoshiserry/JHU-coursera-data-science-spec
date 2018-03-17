@@ -48,3 +48,26 @@
 ```
 sh -c "($ curl -fsSL https://github.com/yoshiserry/JHU-coursera-data-science-spec/blob/master/R_install.sh)";
 ```
+## Week 3 (1.5 Hours)
+* **Types of Data Analysis:**
+  - Descriptive - A description of what is happening in the data without trying to infer things for the next person or data point.
+  - Exploratory - Find relationships and connections you didn't know about. Should not be used alone for generalising or Predicting. Correlation does not imply causation. You've discovered a relationship that is the critical relationship between two variables based on exploratory analysis alone.
+  - Inferencial - Analyse a subset of data and try to infer what's happening in the brodaer dataset/population.
+  - Predictive - Use data on some objects to predict the data on other object. If 'X' predicts 'Y' it does not mean 'X' causes 'Y'. More data and a simple model work best. E.g. Election or Retail purchases.
+  - Causal - To find out what happens to one variable when you change another variable.
+  - Mechanistic - To understand the exact changes in variables that lead to changed in other variables. (Engineering and Physics applications).
+* **Data Quotes:** (Order of importance: A question, then Data)
+    - 'Data' A set of items: Quantitative and Qualitative variables (measurements or characteristics).
+    - Big or small you need the 'right data'.
+* **Data Sharing:** [How to share data with a statistician](https://github.com/jtleek/datasharing), [share scientific data - figshare](https://figshare.com/)
+* **Experimental Design**
+    - [Experimental Design lecture](https://www.coursera.org/learn/data-scientists-tools/lecture/NUYrv/experimental-design) What are the other variables that might be causing the relationship. **Missing: Age**, Shoe Size and Literacy. Correlation is not causation. **Data Dredging:** Keep going in your experiment until you find green jellybeans cause acne.
+* **Related Reading:**
+    - [Course Reading Materials](http://jtleek.com/book/)
+    - [Interactive R Tutorials](http://swirlstats.com/)
+    - [jekyl theme](https://github.com/hemangsk/Gravity)
+    - [Books](https://github.com/hoir/ansible-role-osx-r), [Blogs](http://alyssafrazee.com/writing/) and [Bookmarks](http://alyssafrazee.com/2013/06/27/links-cheatsheets.html)
+    - [Colorfull Plots R package](https://github.com/alyssafrazee/RSkittleBrewer)
+* **Focus:** More reading on 'Experimental Design' and 'Data Sharing'.
+## Week 4 (15 Minutes)
+  - Practical exercise to show evidence of installing R & R-Studio, Using git and github, forking a Repo and writing Markdown.
