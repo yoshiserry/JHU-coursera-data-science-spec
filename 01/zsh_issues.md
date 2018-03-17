@@ -1,6 +1,6 @@
 #issues
 
-
+When running commands like 'conda' and 'anaconda' zsh does not recognise the files.
 
 **Reading:**
   - [oh-my-zsh:Issues](https://github.com/robbyrussell/oh-my-zsh/issues/3807)
