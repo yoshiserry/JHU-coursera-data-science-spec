@@ -1,8 +1,9 @@
 # Course Notes
 
-# Module 1 - The Data Scientist’s Toolbox
+# Module 1 - The Data Scientist’s Toolbox.
 
-## Week 1 (including sign up and setup 2 hours) * considerable time spent prior to this investigating pathways for learning data science.
+## Week 1 (2 Hours)
+* Considerable time spent prior to this investigating pathways for learning data science. - Explore the options. Pick something and go for it!
 * Course overview and learning materials available.
 * An overview of data science in general and each of the nine modules in the course.
 * The data science workflow and data pipelines.
