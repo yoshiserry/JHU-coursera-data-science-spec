@@ -21,9 +21,12 @@
 * [Github introduction](https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html "Introduction to collaboration on Github in Terminal")
 * [Markdown introduction](https://www.lynda.com/Web-Development-tutorials/Up-Running-Markdown/438888-2.html "Introduction to markdown")
 * [introduction to R](https://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html  "Basic Introduction to R")
-* Other R Courses [R Data Science](https://www.lynda.com/R-tutorials/R-Data-Science-Lunchbreak-Lessons/651209-2.html) [R Tidyverse](https://www.lynda.com/R-tutorials/Learning-R-Tidyverse/586672-2.html) [R Data Wrangling](https://www.lynda.com/R-tutorials/Data-Wrangling-R/594442-2.html)
-[R Statistics](https://www.lynda.com/R-tutorials/R-Statistics-Essential-Training/142447-2.html)
-[Atom Quick User Guide](https://flight-manual.atom.io/using-atom/sections/github-package/)
+* Other R Courses
+  - [R Data Science](https://www.lynda.com/R-tutorials/R-Data-Science-Lunchbreak-Lessons/651209-2.html)
+  - [R Tidyverse](https://www.lynda.com/R-tutorials/Learning-R-Tidyverse/586672-2.html)
+  - [R Data Wrangling](https://www.lynda.com/R-tutorials/Data-Wrangling-R/594442-2.html)
+  - [R Statistics](https://www.lynda.com/R-tutorials/R-Statistics-Essential-Training/142447-2.html)
+  - [Atom Quick User Guide](https://flight-manual.atom.io/using-atom/sections/github-package/)
 * **Prior Knowledge:**
   1. Familiarity with Command Line, Git and Github, Markdown.
 
@@ -31,14 +34,14 @@
   1. No prior experience in R / Installation of R.
 
 * **Related Reading:**
- - [Installation of R on OSX](https://cran.r-project.org/bin/macosx/)
- - [R Cask](https://github.com/caskroom/homebrew-cask/blob/master/Casks/r-app.rb)
- - [R-Studio Preview version](https://www.rstudio.com/products/rstudio/download/preview/)
- - [R-Studio preview version Cask](https://github.com/caskroom/homebrew-versions/blob/master/Casks/rstudio-preview.rb)
- - [R-Studio standard version Cask](https://github.com/caskroom/homebrew-cask/blob/master/Casks/rstudio.rb)
- - [Ansible roles for installing R and R-Studio](https://github.com/hoir/ansible-role-osx-r)
- - [Git2R R installation package](https://github.com/ropensci/git2r)
- - [Alias for Bash Scripting](https://www.computerworld.com/article/2598087/linux/how-to-use-aliases-in-linux-shell-commands.html)
+  - [Installation of R on OSX](https://cran.r-project.org/bin/macosx/)
+  - [R Cask](https://github.com/caskroom/homebrew-cask/blob/master/Casks/r-app.rb)
+  - [R-Studio Preview version](https://www.rstudio.com/products/rstudio/download/preview/)
+  - [R-Studio preview version Cask](https://github.com/caskroom/homebrew-versions/blob/master/Casks/rstudio-preview.rb)
+  - [R-Studio standard version Cask](https://github.com/caskroom/homebrew-cask/blob/master/Casks/rstudio.rb)
+  - [Ansible roles for installing R and R-Studio](https://github.com/hoir/ansible-role-osx-r)
+  - [Git2R R installation package](https://github.com/ropensci/git2r)
+  - [Alias for Bash Scripting](https://www.computerworld.com/article/2598087/linux/how-to-use-aliases-in-linux-shell-commands.html)
 
 * **Required Files:**
   1. **[R_install.sh](https://github.com/yoshiserry/JHU-coursera-data-science-spec/blob/master/R_install.sh)** - To install R & R-Studio execute the following terminal command:
