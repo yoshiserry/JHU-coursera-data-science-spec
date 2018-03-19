@@ -10,10 +10,13 @@
 ## Time Taken:
  - Tracking how long I've spent on each activity. (There is a date and time configuration item available in ZSH).
 
+## Health during Study
+Please remember while studying for long periods to: Hydrate, eat healthy and regular meals, stretch and move around regularly.
+
 | Module  | Time  | Comments |
 |---|---|---|
 |1. Toolbox   | 10.5 Hours  | * Complete Toolbox module * Maintain Github and write course notes * Install R * Setup anaconda and path environment variables with ZSH  |
-|2. R   | 1 Hour 30 minutes  | * Setup conda environment installing R libraries * Write conda documentation |
+|2. R   | 2 Hours 40 minutes  | * Setup conda environment installing R libraries * Write conda documentation * Learn R data-types|
 |3. Getting and Cleaning Data   | Not Yet Started   |   |
 |4. Exploratory Data Analysis   | Not Yet Started   |   |
 |5. Reproducible Research   | Not Yet Started   |   |
