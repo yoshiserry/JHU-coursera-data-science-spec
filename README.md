@@ -1,19 +1,17 @@
 # JHU-coursera-data-science-spec
 
-[JHU Coursera Data Science Specialisation](https://www.coursera.org/specializations/jhu-data-science "Data Science Introduction")
-
+  - [JHU Coursera Data Science Specialisation Homepage](https://www.coursera.org/specializations/jhu-data-science "Data Science Introduction")
+  - [Course portal during the study](https://www.coursera.org/?skipRecommendationsRedirect=true&tab=current)
 ## Files:
-* **README.MD** - Summary page.
-* **course_notes.MD** - Course Notes are stored in a folder as each of the modules are completed.
-* **R_install.sh** - Installation script for R and R-studio on OSX.
-
-## Time Taken:
- - Tracking how long I've spent on each activity. (There is a date and time configuration item available in ZSH).
+  - See [Files.md]()
 
 ## Health during Study
-Please remember while studying for long periods to: Hydrate, eat healthy and regular meals, stretch and move around regularly.
+Please remember while studying for long periods to: Hydrate, eat healthy and regular meals, stretch and move around regularly, and take breaks to avoid eye-strain.
 
-| Module  | Time  | Comments |
+## Progress and Time requirements:
+- Tracking how long I've spent on each activity. (There is a date and time configuration item available in ZSH).
+
+| **Module**  | **Time**  | **Comments** |
 |---|---|---|
 |1. Toolbox   | 10.5 Hours  | * Complete Toolbox module * Maintain Github and write course notes * Install R * Setup anaconda and path environment variables with ZSH  |
 |2. R   | 2 Hours 40 minutes  | * Setup conda environment installing R libraries * Write conda documentation * Learn R data-types|
