@@ -8,8 +8,7 @@
 * **R_install.sh** - Installation script for R and R-studio on OSX.
 
 ## Time Taken:
- - Tracking how long I've spent on each activity.
- - The date and time option in Terminal history (available through ZSH has been very helpful in tracking the time spent on this course)
+ - Tracking how long I've spent on each activity. (There is a date and time configuration item available in ZSH).
 
 | Module  | Time  | Comments |
 |---|---|---|
