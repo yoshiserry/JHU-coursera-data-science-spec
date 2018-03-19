@@ -20,6 +20,7 @@ conda update -n base conda
 `conda search --outdated`
 `conda update --all`
 `conda clean --all`
+<<<<<<< HEAD
 
 ## Creating a environment using Conda.
 Miniconda - a smaller anaconda distribution without Every package may be more beneficial to your situation.
@@ -31,3 +32,5 @@ Creating a conda environment with all packages installed took ~ 10 minutes.
 2018-03-19 20:48  history
 2018-03-19 20:49  source activate r_environment
 ```
+=======
+>>>>>>> master
