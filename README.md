@@ -6,3 +6,6 @@
 * **README.MD** - Summary page.
 * **course_notes.MD** - Course Notes are stored in a folder as each of the modules are completed.
 * **R_install.sh** - Installation script for R and R-studio on OSX.
+
+##To-Do
+[A note about Python Kernels for Ipython notebook](https://github.com/Cadair/jupyter_environment_kernels)
