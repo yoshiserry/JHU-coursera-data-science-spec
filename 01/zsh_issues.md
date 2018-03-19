@@ -1,8 +1,8 @@
-#issue:
+# Issue:
 
 When running commands like 'conda' and 'anaconda' zsh does not recognise the files.
 
-#Solution:
+# Solution:
 1. Make a backup of the `~/.bashrc`, `~/.bash_profile` and `~/.zshrc` files using the **cp** command.
 
 2. Install the graphical anaconda3 package which will edit the `~/.bash_profile` file for you and add:
@@ -21,7 +21,7 @@ source ~/.bash_profil
 source ~/.zshrc
 ```
 
-#What my Dot Files look like after this...
+# What my Dot Files look like after this...
 **~/.bash_profile**
 ```
 if [ -r ~/.bashrc ]; then
@@ -64,7 +64,7 @@ source ~/.bash_profile
 # added by Anaconda3 5.1.0 installer
 export PATH="/anaconda3/bin:$PATH"
 ```
-#reading materials.
+# Reading materials.
   - [oh-my-zsh:Issues](https://github.com/robbyrussell/oh-my-zsh/issues/3807)
   - [bash environment variables](https://scriptingosx.com/2017/04/on-bash-environment-variables/)
   - [installing/uninstalling anaconda3](https://stackoverflow.com/questions/22585235/python-anaconda-how-to-safely-uninstall)
